@@ -21,6 +21,6 @@ I'm a Computer Science Specialist with a passion for problem-solving and softwar
 
 📫 **Contact**
 - Email: niharikasurapuram@gmail.com
-- LinkedIn: [Connect with me](https://www.linkedin.com/in/niharika-surapuram-03ba4a22)
+- LinkedIn: [Connect with me](https://www.linkedin.com/in/niharikasurapuram)
 
 Let's connect and collaborate on exciting projects!
