@@ -1,6 +1,6 @@
 # Hi, I'm Niharika 👋
 
-I'm a Computer Science Specialist with a passion for problem-solving and software development. My goal is to create innovative solutions and contribute to exciting projects.
+I'm a Computer Science Specialist who's all about cracking problems and crafting cool software solutions. I love diving into innovative projects and bringing them to life. Also, I've got some frontend skills, adding that extra touch of style to my coding adventures! 
 
 🚀 **Skills**
 - Programming: C/C++, JavaScript, Python
@@ -15,6 +15,7 @@ I'm a Computer Science Specialist with a passion for problem-solving and softwar
 - Beauty Product Recommendation System: Leveraged machine learning for personalized recommendations.
 - Music Player with GUI: Designed an intuitive music player using Python and Tkinter.
 - ASAP - Online Grocery Store: Led development with user authentication and a product catalog.
+- Food Ordering Dashboard: Built using Next.js, MaterialUI, React.js, Jotai. 
 
 🎓 **Education**
 - B.Tech in Computer Science and Engineering (PES University, Bangalore)
